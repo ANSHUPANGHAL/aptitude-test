@@ -27,27 +27,27 @@ Correct answers highlighted in green if answered wrong
 
                             👩‍💻 Admin Portal
 
-Admin login with secure authentication.
-Dashboard to track:
-Student details (name, email, college, CGPA)
-Test score (total + section-wise)
-Exam date and time taken
-Submission details
+*Admin login with secure authentication.
+*Dashboard to track:
+*Student details (name, email, college, CGPA)
+*Test score (total + section-wise)
+*Exam date and time taken
+*Submission details
 
 --***Tech Stack***--
-Frontend (React)
-React.js
-React Router DOM
-Backend (Node.js + Express)
-Express.js
-BcryptJS (password hashing)
-CORS
-Mongoose (students, test details, admin data)
+*Frontend (React)
+*React.js
+*React Router DOM
+*Backend (Node.js + Express)
+*Express.js
+*BcryptJS (password hashing)
+*CORS
+*Mongoose (students, test details, admin data)
 
 
 📜 Test Rules
-Duration: 90 minutes
-Total Questions: 50
-Marking System: +4 for correct, -2 for wrong
-Minimum Attempt: 47 questions (max 3 skips allowed)
-Modes: Answer, Skip, Flag, Flag + Answer
+*Duration: 90 minutes
+*Total Questions: 50
+*Marking System: +4 for correct, -2 for wrong
+*Minimum Attempt: 47 questions (max 3 skips allowed)
+*Modes: Answer, Skip, Flag, Flag + Answer
